@@ -1,4 +1,4 @@
-import 'package:netfetch/netfetch.dart';
+import 'package:server/server.dart';
 import 'package:test/test.dart';
 
 void main() {
